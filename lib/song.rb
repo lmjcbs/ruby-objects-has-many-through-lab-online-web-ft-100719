@@ -4,5 +4,7 @@ class Song
 
   @@all = Array.new
 
+  def initialize(name, artisrt, genre)
+
 
 end
