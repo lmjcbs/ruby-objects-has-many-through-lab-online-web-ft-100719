@@ -3,7 +3,7 @@ class Doctor
   @@all = Array.new
 
   def initialize(name)
-
+    @name = anme
   end
 
 
