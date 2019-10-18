@@ -2,7 +2,7 @@ class Doctor
 
   @@all = Array.new
 
-  def initialize
+  def initialize(name)
 
 
   def self.all
