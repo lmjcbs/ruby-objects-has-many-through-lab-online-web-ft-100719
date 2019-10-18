@@ -5,7 +5,7 @@ class Artist
   @@all = Array.new
 
   def initialize(name)
-
+    @name = name
   end
 
 end
