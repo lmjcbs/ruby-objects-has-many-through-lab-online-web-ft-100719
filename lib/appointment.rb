@@ -4,7 +4,7 @@ class Appointment
 
   @@all = Array.new
 
-  def initialize(patient, doctor, date)
+  def initialize(date, patient, doctor, date)
     @patient = patient
     @doctor = doctor
     @date = date
