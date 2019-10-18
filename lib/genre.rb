@@ -2,7 +2,7 @@ class Genre
 
   @@all = Array.new
 
-  def initialize
+  def initialize(name)
   end
 
   def self.all
